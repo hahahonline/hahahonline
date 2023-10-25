@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Markus Viana</h1>
 <h3 align="center">A passionate of IA/ML and Big Data</h3>
 
-Atualmente, trabalho com Front-End/Big Data.</br> 
-Estou procurando colaborar na área de IA e aprender mais sobre ela.</br> 
+
+Neste momento, estou explorando o universo dos logs, Logstash, Docker, Elasticsearch e ferramentas relacionadas. Minha área de atuação envolve a manipulação de dados.</br> 
+Porém mantenho ativamente em busca de oportunidades para colaborar no campo da Inteligência Artificial, ansioso para expandir meu conhecimento.</br> 
 No momento, estou estudando Ciência da Computação e estou inclinado para o caminho de Cientista de Dados.</br> 
 
 
-Currently, I work with Front-End/Big Data.</br>
-I'm looking to collaborate in the AI field and learn more about it.</br> 
-Currently, I'm studying Computer Science and I'm leaning towards the path of a Data Scientist.</br>
+At the moment, I'm delving into the realm of logs, Logstash, Docker, Elasticsearch, and related tools. My work involves data manipulation.</br> 
+However, I'm actively seeking opportunities to collaborate in the field of Artificial Intelligence, eager to broaden my knowledge.</br> 
+Currently, I'm studying Computer Science and leaning towards the path of becoming a Data Scientist.</br> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hahahonline&label=Profile%20views&color=0e75b6&style=flat" alt="hahahonline" /> </p>
